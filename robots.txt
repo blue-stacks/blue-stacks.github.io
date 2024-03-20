@@ -1,0 +1,10 @@
+User-agent:
+*
+
+User-agent: Yandex
+
+
+host: blue-stacks.github.io
+
+
+Sitemap: https://blue-stacks.github.io/sitemap.xml
